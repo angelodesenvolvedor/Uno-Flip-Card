@@ -13,4 +13,4 @@
 
 ## 👷 Autor
 
-* **Angelo Silvano** - *Front-End Developer* - [@seu-usuario](https://github.com/seu-usuario)
+* **Angelo Silvano** - *Front-End Developer* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
